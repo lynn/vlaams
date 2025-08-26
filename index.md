@@ -37,5 +37,5 @@ Deze website is voor jou. Wees niet bang: de verschillen tussen SNLNL en Vlaams 
 
 ## Artikels
 
-* [De drie geslachten](./geslachten.md)
-* [Het woord _gij_](./gij.md)
+* [De drie geslachten](./geslachten/)
+* [Het woord _gij_](./gij/)

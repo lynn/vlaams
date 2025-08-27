@@ -2,14 +2,12 @@
 
 Het onderscheid tussen mannelijke en vrouwelijke substantieven verdwijnt in Nederland. Daar zegt men steeds vaker voor elk de-woord _hij_ en _hem_. In de standaardtaal zijn er dus **twee** geslachten voor substantieven: **de** en **het**.
 
-| Geslacht |  |  |  |
 | --- | --- | --- | --- |
 | m/v | een | de | hij, hem |
 | o | een | het | hij, hem |
 
 In het Vlaams zijn er drie geslachten:
 
-| Geslacht |  |  |  |
 | --- | --- | --- | --- |
 | m | **ne(n)** | **de(n)** | hij, hem |
 | v | een | de | **zij, haar** |

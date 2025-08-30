@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+h1:not([id]) { display: none; }
+tr,th,td { border:none !important;  background: #ffe9d3; }
+:root { --bg: #fff9e3; --fg: #320042; }
+body { background: var(--bg); color: var(--fg); }
+.markdown-body table { margin: 2em auto; width: fit-content; font-family: "Source Sans 3"; }
+.markdown-body blockquote { margin: 2em auto; width: fit-content; font-family: "Source Sans 3"; color: inherit; border: none; }
+.markdown-body { font-size: 18px; line-height: 1.5; font-family: "Source Serif 4", serif; max-width: 37em; }
+.markdown-body p { margin-bottom: 1em; }
+.markdown-body strong { font-weight: 700; }
+.markdown-body h1 { border: none; font-family: "Source Serif 4", serif; font-weight: 900; font-size: 3em; }
+.markdown-body h2 { border: none; font-family: "Source Serif 4", serif; font-style: italic; font-weight: 900; margin-top: 2em; font-size: 1.6em; }
+.markdown-body h3 { border: none; font-family: "Source Serif 4", serif; font-style: italic; font-weight: 500; margin-top: 1em; }
+.markdown-body h2 { background: var(--fg); color: var(--bg); width: fit-content; margin-left: -1em; padding: 0.1em 1em; }
+.markdown-body h2>a { color: var(--bg); }
+div.footer { display: none; }

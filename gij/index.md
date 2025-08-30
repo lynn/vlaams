@@ -18,7 +18,7 @@ De vervoeging is een beetje anders:
 | werk jij? | werkt gij? |
 | werk je? | werkte? |
 
-Je hoort ook soms _werktegij?_ Zie: [verdubbeling](/verdubbeling).
+Je hoort ook soms _werkte gij_ --- Zie: [verdubbeling](../verdubbeling).
 
 Volgens de regels is de _gij_-vorm: de meervoudsvorm zonder **-en**, plus **-t**. Maar ik spreek die **-t** niet altijd uit, en ik schrijf ze ook niet. Vooral in de verleden tijd gebruik ik vaak gewoon de _jij_-vorm. Ik zeg _gij viel_ in plaats van _gij vielt_. Er is misschien een klein verschil tussen de Vlaamse _gij_-vorm en de _gij_-vorm uit de bijbel.
 

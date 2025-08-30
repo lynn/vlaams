@@ -21,7 +21,7 @@ We spreken van _ne fiets, ne stoel, nen tand_ (mannelijk) en _een fles, een slak
 
 Ook adjectieven hebben een mannelijke vorm. In plaats van _kleine_ zeggen we _kleine(n)_ bij mannelijke woorden.
 
-## Maar wat bekent `(n)`?
+## Maar wat bekent (n)?
 
 We spreken de -n in _ne(n)_ en _de(n)_ en _kleine(n)_ uit vóór **klinkers, h, b, d, en t**. Bijvoorbeeld:
 

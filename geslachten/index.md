@@ -1,13 +1,15 @@
 # De drie geslachten
 
-Het onderscheid tussen mannelijke en vrouwelijke substantieven verdwijnt in Nederland. Daar zegt men steeds vaker voor elk de-woord _hij_ en _hem_. In de standaardtaal zijn er dus **twee** geslachten voor substantieven: **de** en **het**.
+In de standaardtaal zijn er **twee** geslachten voor substantieven: **de** (mannelijk/vrouwelijk) en **het** (onzijdig).
 
-| Geslacht | een | de/het | |
-| --- | --- | --- | --- |
-| m/v | een | de | hij, hem |
-| o | een | het | hij, hem |
+| Geslacht | een | de/het |
+| --- | --- | --- |
+| m/v | een | de |
+| o | een | het |
 
-In het Vlaams zijn er drie geslachten:
+Het maakt niet zo veel uit of een woord mannelijk of vrouwelijk is. Steeds meer mensen zeggen altijd _hij_ en _hem_ voor elk de-woord. Vooral in Nederland.
+
+In het Vlaams zijn er echter **drie** geslachten:
 
 | Geslacht | een | de/het | |
 | --- | --- | --- | --- |
@@ -17,9 +19,11 @@ In het Vlaams zijn er drie geslachten:
 
 We spreken van _ne fiets, ne stoel, nen tand_ (mannelijk) en _een fles, een slak, een tafel_ (vrouwelijk).
 
-Ook verbogen adjectieven op _-e-_ hebben een mannelijke vorm _-e(n)_ die voorkomt bij mannelijke substantieven.
+Ook adjectieven hebben een mannelijke vorm. In plaats van _kleine_ zeggen we _kleine(n)_ bij mannelijke woorden.
 
-Wat bekent "(n)"? We spreken deze n uit vóór **klinkers, h, b, d, en t**.
+## Maar wat bekent `(n)`?
+
+We spreken de -n in _ne(n)_ en _de(n)_ en _kleine(n)_ uit vóór **klinkers, h, b, d, en t**. Bijvoorbeeld:
 
 > ne(n) kleine(n) fiets = ne kleine fiets  
 > ne(n) toffe(n) fiets = ne**n t**offe fiets  

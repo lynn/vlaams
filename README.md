@@ -1,2 +1,2 @@
-# vlaams
-Notes on Flemish
+# vlaams  
+Vlaams voor NT2'ers

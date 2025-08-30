@@ -43,6 +43,7 @@ Als je al wat Nederlands kent, en de regels van het Vlaams leert, zal je Vlaams 
 
 ## Artikels
 
+* [Da'](./da/)
 * [De drie geslachten](./geslachten/)
 * [Het woord _gij_](./gij/)
 * [Verdubbeling](./verdubbeling/)
